@@ -7,4 +7,4 @@ API_TOKEN = ""
 [[d1_databases]]
 binding = "D1_Database"
 database_name = "url-shortner"
-database_id = ""
+database_id = "14386217-85de-464f-9b34-edb83caff167"
